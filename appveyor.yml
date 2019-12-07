@@ -29,6 +29,7 @@ environment:
     - nodejs_version: "10.16.0"
     - nodejs_version: "11.15.0"
     - nodejs_version: "12.10.0"
+    - nodejs_version: "13.3.0"
       build_electron: "true"
 
 matrix:
